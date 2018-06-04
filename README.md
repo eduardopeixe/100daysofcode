@@ -8,5 +8,6 @@ Minesweeper game
 
 CSS clock
 drumkit
-##Day 3
+
+## Day 3
 Web Crawler
