@@ -1,5 +1,5 @@
-# Flappy Bird
+# Day 2 #FreeCodeCamp #100DaysOfCode
 
-The coding Train coding challenge #31: Flappy Bird
+Building **CSS clock**
 
-Attempt to program a clone of the game Flappy Bird.
+Building **drumkit**
